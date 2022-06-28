@@ -6,6 +6,7 @@ body {
     width: 100%;
     max-width: 900px;
     margin: 0 auto;
+    margin-top: 60px;
     display: flex;
 
 }
@@ -28,7 +29,6 @@ body {
 
 }
 .cabecalho__menuLista {
-
 }
 .cabecalho__menuItem {
     margin-bottom: 25px;
@@ -41,6 +41,7 @@ body {
     text-decoration: none;
     font-size: 22px;
     vertical-align: top;
+    margin-left: 10px;
 }
 
 /* CONTEUDO PRINCIPAL */
@@ -51,7 +52,7 @@ body {
 
 
 }
-.conteudoPrincial__titulo{
+.conteudoPrincipal__titulo{
     padding: 10px 30px;
 }
 .conteudoPrincipal__formulario{
